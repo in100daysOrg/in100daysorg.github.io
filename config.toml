@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "www.in100days.org"
 languageCode = "en-us"
 title = "[Any tech] in 100 days"
 theme = "kube"
