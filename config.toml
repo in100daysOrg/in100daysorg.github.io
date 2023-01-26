@@ -1,6 +1,6 @@
 baseURL = "www.in100days.org"
 languageCode = "en-us"
-title = "[Any tech] in 100 days"
+title = "Master [any tech] in 100 days"
 theme = "kube"
 description = "Why just learn anything in 100 days! We must master it."
 Paginate = 4
